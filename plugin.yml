@@ -1,0 +1,4 @@
+name: InventoryApi
+main: me.libraryaddict.inventory.InventoryApi
+author: libraryaddict
+version: ${buildNumber} §fbuilt on §a${buildDate}
